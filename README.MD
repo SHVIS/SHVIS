@@ -8,6 +8,8 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shvis&theme=codeSTACKr&hide_border=false&layout=compact) <br/>--> 
 ![](https://streak-stats.demolab.com/?user=shvis&theme=codeSTACKr&hide_border=false)
 
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shvis&theme=radical&no-frame=false&no-bg=true&margin-w=2)
@@ -15,8 +17,6 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/balkishan-vishwakarma-583b28264) 
