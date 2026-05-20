@@ -14,9 +14,10 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<html><body>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264)  </h3>
+<h3 align="left">Connect with me:  </h3> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
 
 ### <h3 align="left"><u>Languages & Tools:</u></h3>
 <!-- Row 1: Frontend -->
@@ -78,3 +79,4 @@ flex-wrap: wrap;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
   </a>
 </div>
+</body></html>
