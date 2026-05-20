@@ -17,7 +17,7 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 <html><body>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-### Connect with me:  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
+### Connect with me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
 
 ### <u>Languages & Tools:</u>
 
@@ -33,9 +33,8 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 
 | Node.js                                                                                                                     | Express                                                                                                                       | Java                                                                                                           | Kotlin                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://cdn.simpleicons.org/express/ffffff" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"/> |
 
----
 
 ### 🗄️ Databases + DevOps
 
