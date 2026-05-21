@@ -17,18 +17,11 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Connect with me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
-
-# <u>Languages & Tools:</u>
-
 # 🚀 Frontend + ⚙️ Backend
 
-| TypeScript                                                                                                                 | React                                                                                                                     | Tailwind CSS                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------|
-| Node.js                                                                                                                     | Express                                                                                                                       | Java                                                                                                           | Kotlin                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://cdn.simpleicons.org/express/ffffff" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"/> |
-
+| TypeScript | React | Tailwind CSS | &emsp;&emsp; | Node.js | Express | Java | Kotlin |
+| ---------------- | ----- | ------------ | ---------------------------------------------- | ------- | ------- | ---- | ------ |
+| &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/> |&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/> | &emsp; ➕ &emsp; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/> | <img src="https://cdn.simpleicons.org/express/ffffff" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/> |
 
 ### 🗄️ Databases + DevOps
 
