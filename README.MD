@@ -1,4 +1,5 @@
 # <kbd>[**About**](https://github.com/SHVIS)</kbd>💫 About Me:    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
+### A Passionate Developer from M.P India
 I'm a developer who loves both backend and frontend development, with hands-on experience across a wide range of technologies—from Linux system administration to full-stack web development. I get a real kick out of solving problems and exploring new frameworks, database systems, and even mobile app development with Android.<br><br>Here’s what I’ve been working with:<br><br>• Linux Administration: Managing file permissions, writing Bash scripts, and automating tasks.<br><br>• Backend Development: Building apps with Laravel (advanced), Express.js, and MySQL as well as working with RESTful APIs and MongoDB.<br><br>• Android Development: Using Kotlin for building mobile apps—integrating APIs, working with models and repositories<br>.<br>• Frontend: Crafting responsive websites with HTML, CSS, Bootstrap, and Tailwind CSS.<br><br>• Data Analysis & Automation: Leveraging Python (Pandas, NumPy) and Bash scripting for data tasks and automation.<br><br>• Version Control & Deployment: Comfortable with Git and deploying on Hostinger.<br><br>I love taking time to write pseudocode and plan the architecture of a project before I dive into coding. It helps me think things through and avoid roadblocks later on.<br> My goal is to continue expanding my knowledge in cloud technologies, security practices, and advanced system programming, while contributing to open-source projects and improving my development workflows.<br>Let’s connect if you’d like to collaborate 🤝 or chat about tech! 
 
 # 💻 Tech Stack:
@@ -14,24 +15,16 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<html><body>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ### Connect with me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/balkishan-vishwakarma-583b28264) 
 
-### <u>Languages & Tools:</u>
+# <u>Languages & Tools:</u>
 
-### 🚀 Frontend
+# 🚀 Frontend + ⚙️ Backend
 
 | TypeScript                                                                                                                 | React                                                                                                                     | Tailwind CSS                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> |
-
----
-
-### ⚙️ Backend
-
-| Node.js                                                                                                                     | Express                                                                                                                       | Java                                                                                                           | Kotlin                                                                                   |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/> | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------| Node.js                                                                                                                     | Express                                                                                                                       | Java                                                                                                           | Kotlin                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/> <img src="https://cdn.simpleicons.org/express/ffffff" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50"/> |
 
