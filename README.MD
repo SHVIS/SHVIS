@@ -24,7 +24,7 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 ![](https://streak-stats.demolab.com/?user=shvis&theme=codeSTACKr&hide_border=false) &emsp;
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shvis&theme=codeSTACKr&hide_border=false&layout=compact)
 <br/>
-![](https://github-readme-stats.shion.dev/api?username=shvis&theme=codeSTACK)
+![](https://github-readme-stats.shion.dev/api?username=shvis&theme=codeSTACKr&show_icons=true)
 
 
 ### ✍️ Quote
