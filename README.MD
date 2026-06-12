@@ -20,7 +20,9 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 ---
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=shvis&theme=codeSTACKr&hide_border=false) &emsp;
+ ![]( <a href="https://github.com/SHVIS">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SHVIS&cache_seconds=7200&layout=compact&theme=codeSTACKr&hide_border=false" alt="SHVIS GitHub Stats" />
+  </a>)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shvis&theme=codeSTACKr&hide_border=false&layout=compact)
 <br/>
 ![](https://github-readme-stats.shion.dev/api?username=shvis&theme=codeSTACKr&hide_border=false)
