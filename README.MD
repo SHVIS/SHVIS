@@ -26,7 +26,7 @@ I'm a developer who loves both backend and frontend development, with hands-on e
 
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
 
 <!-- ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
