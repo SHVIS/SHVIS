@@ -7,7 +7,7 @@ Hi! I'm a developer who loves both Backend & Frontend Development, with the hand
 
 # 🚀 Frontend + ⚙️ Backend
 
-| TypeScript | React | Tailwind CSS | &emsp;&emsp; | Node.js | Express | Java | Kotlin |
+| TypeScript | React | Tailwind CSS | &emsp; &nbsp; | Node.js | Express | Java | Kotlin |
 | ---------------- | ----- | ------------ | ---------------------------------------------- | ------- | ------- | ---- | ------ |
 | &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/> |&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/> | &emsp; ➕ &emsp; | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/> | <img src="https://cdn.simpleicons.org/express/ffffff" width="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/> |
 
