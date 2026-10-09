@@ -25,7 +25,7 @@ Hi! I'm a developer who loves both Backend & Frontend Development, with the hand
 ![](https://github-readme-stats.shion.dev/api?username=shvis&theme=codeSTACKr&show_icons=true&hide_border=false)
 
 
-### ✍️ Quote
+## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
 
 <!-- ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=shvis&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
